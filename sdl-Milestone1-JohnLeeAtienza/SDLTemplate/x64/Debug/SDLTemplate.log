@@ -1,0 +1,19 @@
+﻿  draw.cpp
+  GameObject.cpp
+  GameScene.cpp
+  init.cpp
+  input.cpp
+  main.cpp
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\main.cpp(53,12): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\main.cpp(68,21): warning C4305: '+=': truncation from 'double' to 'float'
+  Player.cpp
+  Scene.cpp
+  SoundManager.cpp
+  text.cpp
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\text.cpp(43,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  util.cpp
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\util.cpp(37,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\SDLTemplate\util.cpp(40,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLTemplate.vcxproj -> C:\Users\jatie\SY23T1-BP3-TIE3--Atienza-JohnChristian-\Milestone1_AtienzaJohnChristian\x64\Debug\SDL-Template.exe
